@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smile Test</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="welcome">Welcome the smiling test.</string>
+    <string name="test">I wish you good luck in passing</string>
+    <string name="Email">Email</string>
+    <string name="Pas">Password</string>
+    <string name="Enter">Enter</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+</resources>
